@@ -1,0 +1,199 @@
+{
+  "signature_id": "template_signature_001",
+  "category": "gold_exploration",
+  "subcategory": "",
+  "description": "",
+  "location": {
+    "latitude": null,
+    "longitude": null,
+    "utm_zone": null,
+    "easting": null,
+    "northing": null,
+    "pixel_x": null,
+    "pixel_y": null
+  },
+  "source": {
+    "sensor": "ASTER",
+    "scene_id": "",
+    "acquisition_date": "",
+    "extraction_method": "",
+    "extraction_tool": ""
+  },
+  "bands": [
+    {
+      "band_number": 1,
+      "band_name": "ASTER_B04_1.66um_Clay_Carbonate",
+      "wavelength_um": 1.656,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 2,
+      "band_name": "ASTER_B05_2.17um_AlOH_Sericite",
+      "wavelength_um": 2.167,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 3,
+      "band_name": "ASTER_B06_2.21um_AlOH_Muscovite",
+      "wavelength_um": 2.209,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 4,
+      "band_name": "ASTER_B07_2.26um_MgOH_Chlorite",
+      "wavelength_um": 2.262,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 5,
+      "band_name": "ASTER_B08_2.34um_Carbonate",
+      "wavelength_um": 2.336,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 6,
+      "band_name": "ASTER_B09_2.40um_Carbonate_Chlorite",
+      "wavelength_um": 2.400,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 7,
+      "band_name": "CR_ASTER_B04_1.66um_Clay_Carbonate",
+      "wavelength_um": 1.656,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 8,
+      "band_name": "CR_ASTER_B05_2.17um_AlOH_Sericite",
+      "wavelength_um": 2.167,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 9,
+      "band_name": "CR_ASTER_B06_2.21um_AlOH_Muscovite",
+      "wavelength_um": 2.209,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 10,
+      "band_name": "CR_ASTER_B07_2.26um_MgOH_Chlorite",
+      "wavelength_um": 2.262,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 11,
+      "band_name": "CR_ASTER_B08_2.34um_Carbonate",
+      "wavelength_um": 2.336,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 12,
+      "band_name": "CR_ASTER_B09_2.40um_Carbonate_Chlorite",
+      "wavelength_um": 2.400,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 13,
+      "band_name": "Gold_Phyllic_Sericite",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 14,
+      "band_name": "Gold_Argillic_Kaolinite",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 15,
+      "band_name": "Gold_Propylitic_Chlorite",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 16,
+      "band_name": "Gold_Composite_Best",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 17,
+      "band_name": "Gold_Hydrothermal_Intensity",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    },
+    {
+      "band_number": 18,
+      "band_name": "Gold_Advanced_Argillic",
+      "wavelength_um": null,
+      "reflectance_value": 0.0,
+      "continuum_removed": null,
+      "index_value": null,
+      "notes": ""
+    }
+  ],
+  "statistics": {
+    "mean_reflectance": null,
+    "std_reflectance": null,
+    "min_reflectance": null,
+    "max_reflectance": null
+  },
+  "metadata": {
+    "created_date": "",
+    "created_by": "",
+    "validation_status": "pending",
+    "notes": ""
+  }
+}
+
