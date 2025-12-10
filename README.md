@@ -186,7 +186,7 @@ signature.save_json("signatures/gold_exploration/my_signature_001.json")
 
 ## 📝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](docs/contributing.md) for guidelines.
+TBD
 
 ### Adding a New Signature
 
@@ -198,7 +198,8 @@ Contributions are welcome! Please see [CONTRIBUTING.md](docs/contributing.md) fo
 
 ## 📄 License
 
-[Specify your license here]
+TBD
+
 
 ## 🙏 Acknowledgments
 
@@ -208,5 +209,5 @@ Contributions are welcome! Please see [CONTRIBUTING.md](docs/contributing.md) fo
 
 ## 📧 Contact
 
-[Your contact information]
+TBD
 
